@@ -1,0 +1,42 @@
+body {
+    background-color: #eee;
+    font-family: 'Comic Neue';
+}
+
+table {
+    align-content: flex-start;
+    text-align: left;
+    border-collapse: collapse;
+    
+}
+
+th {
+    font-weight: bold;
+    border-bottom : solid 2px;
+    border-color: black;
+    padding: 4px;
+}
+
+td {
+    border-bottom : 1px solid #D3D3D3;
+    padding: 4px;
+}
+
+.center-div
+{
+     margin: 0 auto;
+     width: fit-content; 
+}
+#second_row{
+    color: blue;
+}
+
+#third_row {
+    color: red;
+}
+
+#wrong_answer {
+    text-decoration: line-through;
+}
+
+/*your code here*/
